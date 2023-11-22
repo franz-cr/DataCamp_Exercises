@@ -1,0 +1,13 @@
+# Jupyter Notebooks Checkpoint Folders
+.ipynb_checkpoints/
+
+# Data files that are very heavy W > 50GB
+#06-Deep_Learning/Jupyter Notebooks/CS_2-Audio_MNIST_Archive.zip
+
+#10-Live_Sessions/Session_10-Recommendation_Systems/yelp_reviews-prt1.zip
+#10-Live_Sessions/Session_10-Recommendation_Systems/yelp_reviews-prt2.zip
+#10-Live_Sessions/Session_10-Recommendation_Systems/yelp_reviews-prt3.zip
+
+#11-Projects/08-Hackathon/*_train*.csv
+#11-Projects/08-Hackathon/*_test*.csv
+#11-Projects/08-Hackathon/*dataset*.csv
