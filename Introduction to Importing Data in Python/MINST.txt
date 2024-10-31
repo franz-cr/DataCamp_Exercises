@@ -1,0 +1,1 @@
+https://assets.datacamp.com/production/repositories/487/datasets/d6d1b84ef06151ff913b4173e2eca8e6d5fa959b/mnist_kaggle_some_rows.csv
